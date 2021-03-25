@@ -1,0 +1,48 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(rmgarch)
+library(tidyverse)
+library(tibble)
+```
+
+```{r}
+data <- read_csv("hnx_hose_merged.csv")
+data <- data %>%
+         column_to_rownames('Date')
+```
+
+```{r}
+head(data)
+```
+
+
+```{r}
+# define GARCH(1,1) model
+univariate_spec <- ugarchspec(mean.model = list(armaOrder = c(0,0)),
+                              variance.model = list(garchOrder = c(1,1), 
+                                                    model = "sGARCH"),
+                              distribution.model = "norm")
+
+# define DCC(1,1) model
+n <- dim(data)[2]
+dcc_spec <- dccspec(uspec = multispec(replicate(n, univariate_spec)),
+                    cccOrder = c(1,1),
+                    distribution = "mvnorm")
+dcc_fit <- dccfit(dcc_spec, data=data)
+forecasts <- dccforecast(dcc_fit, n.ahead = 90)
+```
+
+```{r}
+show(dcc_fit)
+```
+```{r}
+plot(dcc_fit, which = 2)
+```
+
+
+
+

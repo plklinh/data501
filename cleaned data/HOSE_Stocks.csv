@@ -1,0 +1,434 @@
+,Exchange,Symbol,IPO_Date,Delisting_Date,Status,Sector
+0,HOSE,SAM,2000-07-28,,Active,Real Estate and Construction
+1,HOSE,REE,2000-07-28,,Active,Real Estate and Construction
+2,HOSE,TMS,2000-08-04,,Active,Industrials
+3,HOSE,HAP,2000-08-04,,Active,Materials
+4,HOSE,LAF,2000-12-15,,Active,
+5,HOSE,BBC,2001-12-19,,Active,Consumer Goods
+6,HOSE,TRI,2001-12-28,2012-04-09,Delisted,Consumer Goods
+7,HOSE,GIL,2002-01-02,,Active,Consumer Goods
+8,HOSE,GMD,2002-04-22,,Active,Industrials
+9,HOSE,SAV,2002-05-09,,Active,Consumer Goods
+10,HOSE,TS4,2002-08-08,,Active,
+11,HOSE,HAS,2002-12-19,,Active,Real Estate and Construction
+12,HOSE,DHA,2004-04-14,,Active,Real Estate and Construction
+13,HOSE,SFC,2004-09-21,,Active,Energy
+14,HOSE,VFMVF1,2004-11-08,2014-12-17,Delisted,Finance
+15,HOSE,NKD,2004-12-15,2010-12-14,Delisted,Consumer Goods
+16,HOSE,SSC,2005-03-01,,Active,
+17,HOSE,MHC,2005-03-21,,Active,Industrials
+18,HOSE,PNC,2005-07-11,,Active,Service
+19,HOSE,VSH,2005-07-14,,Active,Energy
+20,HOSE,KHP,2005-07-14,,Active,Energy
+21,HOSE,TNA,2005-07-20,,Active,Service
+22,HOSE,KDC,2005-12-12,,Active,Consumer Goods
+23,HOSE,HTV,2006-01-05,,Active,Industrials
+24,HOSE,VNM,2006-01-19,,Active,Consumer Goods
+25,HOSE,TYA,2006-02-15,,Active,Industrials
+26,HOSE,CII,2006-05-18,,Active,Industrials
+27,HOSE,PPC,2006-05-19,,Active,Energy
+28,HOSE,SJS,2006-07-06,,Active,Real Estate and Construction
+29,HOSE,BMP,2006-07-11,,Active,Real Estate and Construction
+30,HOSE,STB,2006-07-12,,Active,Finance
+31,HOSE,FPC,2006-07-25,2011-08-10,Delisted,Real Estate and Construction
+32,HOSE,COM,2006-08-07,,Active,Energy
+33,HOSE,TBC,2006-08-29,,Active,Energy
+34,HOSE,SMC,2006-10-30,,Active,Real Estate and Construction
+35,HOSE,ITA,2006-11-15,,Active,Real Estate and Construction
+36,HOSE,CLC,2006-11-16,,Active,Materials
+37,HOSE,ACB,2006-11-21,,Active,Finance
+38,HOSE,PGC,2006-11-24,,Active,Energy
+39,HOSE,BMI,2006-11-28,,Active,Finance
+40,HOSE,PRUBF1,2006-12-04,2014-12-17,Delisted,Finance
+41,HOSE,IMP,2006-12-04,,Active,Healthcare
+42,HOSE,PVD,2006-12-05,,Active,Energy
+43,HOSE,RAL,2006-12-06,,Active,Consumer Goods
+44,HOSE,TCT,2006-12-06,,Active,Service
+45,HOSE,FMC,2006-12-07,,Active,Agriculture
+46,HOSE,MCV,2006-12-11,2012-03-20,Delisted,Real Estate and Construction
+47,HOSE,PAC,2006-12-12,,Active,Industrials
+48,HOSE,FPT,2006-12-13,,Active,Technology
+49,HOSE,TDH,2006-12-14,,Active,Real Estate and Construction
+50,HOSE,SSI,2006-12-15,,Active,Finance
+51,HOSE,BHS,2006-12-20,2017-08-29,Delisted,Agriculture
+52,HOSE,LBM,2006-12-20,,Active,Real Estate and Construction
+53,HOSE,HMC,2006-12-21,,Active,Real Estate and Construction
+54,HOSE,NSC,2006-12-21,,Active,
+55,HOSE,VIP,2006-12-21,,Active,Energy
+56,HOSE,DHG,2006-12-21,,Active,Healthcare
+57,HOSE,SVC,2006-12-21,,Active,Service
+58,HOSE,GMC,2006-12-22,,Active,Consumer Goods
+59,HOSE,DTT,2006-12-22,,Active,Materials
+60,HOSE,NAV,2006-12-22,,Active,Real Estate and Construction
+61,HOSE,PAN,2006-12-22,,Active,
+62,HOSE,VIS,2006-12-25,,Active,Materials
+63,HOSE,DMC,2006-12-25,,Active,Healthcare
+64,HOSE,SJD,2006-12-25,,Active,Energy
+65,HOSE,ABT,2006-12-25,,Active,Agriculture
+66,HOSE,SCD,2006-12-25,,Active,Consumer Goods
+67,HOSE,VID,2006-12-25,,Active,Materials
+68,HOSE,PTC,2006-12-25,,Active,Industrials
+69,HOSE,HRC,2006-12-26,,Active,
+70,HOSE,HAX,2006-12-26,,Active,Service
+71,HOSE,TAC,2006-12-26,,Active,Consumer Goods
+72,HOSE,LGC,2006-12-27,,Active,Industrials
+73,HOSE,VTB,2006-12-27,,Active,Consumer Goods
+74,HOSE,HAI,2006-12-27,,Active,
+75,HOSE,HBC,2006-12-27,,Active,Real Estate and Construction
+76,HOSE,BMC,2006-12-28,,Active,Materials
+77,HOSE,PJT,2006-12-28,,Active,Industrials
+78,HOSE,MCP,2006-12-28,,Active,Materials
+79,HOSE,SFI,2006-12-29,,Active,Industrials
+80,HOSE,TCR,2006-12-29,,Active,Real Estate and Construction
+81,HOSE,DRC,2006-12-29,,Active,Industrials
+82,HOSE,GTA,2007-07-23,,Active,Consumer Goods
+83,HOSE,TRC,2007-07-24,,Active,
+84,HOSE,RIC,2007-07-31,,Active,Service
+85,HOSE,VNE,2007-08-09,,Active,Real Estate and Construction
+86,HOSE,TNC,2007-08-22,,Active,
+87,HOSE,ACL,2007-09-05,,Active,Agriculture
+88,HOSE,PET,2007-09-12,,Active,Service
+89,HOSE,VIC,2007-09-19,,Active,Real Estate and Construction
+90,HOSE,TSC,2007-10-04,,Active,
+91,HOSE,HDC,2007-10-08,,Active,Real Estate and Construction
+92,HOSE,VTO,2007-10-09,,Active,Energy
+93,HOSE,TCM,2007-10-15,,Active,Consumer Goods
+94,HOSE,SC5,2007-10-18,,Active,Real Estate and Construction
+95,HOSE,CDC,2007-11-01,,Active,Real Estate and Construction
+96,HOSE,DPM,2007-11-05,,Active,Agriculture
+97,HOSE,UIC,2007-11-12,,Active,Real Estate and Construction
+98,HOSE,HT1,2007-11-13,,Active,Real Estate and Construction
+99,HOSE,HPG,2007-11-15,,Active,Materials
+100,HOSE,TPC,2007-11-28,,Active,Materials
+101,HOSE,DPR,2007-11-30,,Active,Agriculture
+102,HOSE,ANV,2007-12-07,,Active,Agriculture
+103,HOSE,PVT,2007-12-10,,Active,Energy
+104,HOSE,DCC,2007-12-12,2011-09-15,Delisted,Real Estate and Construction
+105,HOSE,ST8,2007-12-18,,Active,Service
+106,HOSE,ALP,2007-12-18,2014-12-30,Delisted,Real Estate and Construction
+107,HOSE,KBC,2007-12-18,,Active,Real Estate and Construction
+108,HOSE,NTL,2007-12-21,,Active,Real Estate and Construction
+109,HOSE,VHC,2007-12-24,,Active,
+110,HOSE,L10,2007-12-25,,Active,Real Estate and Construction
+111,HOSE,MAFPF1,2007-12-28,2014-08-20,Delisted,Finance
+112,HOSE,VSC,2008-01-09,,Active,Industrials
+113,HOSE,LSS,2008-01-09,,Active,
+114,HOSE,FBT,2008-01-14,2014-12-17,Delisted,Agriculture
+115,HOSE,SGT,2008-01-18,,Active,Technology
+116,HOSE,PIT,2008-01-24,,Active,Service
+117,HOSE,VPL,2008-01-31,2011-12-23,Delisted,Real Estate and Construction
+118,HOSE,ASP,2008-02-15,,Active,Energy
+119,HOSE,TTF,2008-02-18,,Active,Consumer Goods
+120,HOSE,DQC,2008-02-21,,Active,Consumer Goods
+121,HOSE,SBT,2008-02-25,,Active,
+122,HOSE,DXV,2008-02-26,,Active,Real Estate and Construction
+123,HOSE,DBC,2008-03-18,,Active,Agriculture
+124,HOSE,CSG,2008-05-06,2012-10-03,Delisted,Industrials
+125,HOSE,VFMVF4,2008-06-12,2014-12-17,Delisted,Finance
+126,HOSE,KMR,2008-06-30,,Active,Consumer Goods
+127,HOSE,VNS,2008-07-29,,Active,Industrials
+128,HOSE,SZL,2008-09-09,,Active,Real Estate and Construction
+129,HOSE,DCL,2008-09-17,,Active,Healthcare
+130,HOSE,OPC,2008-10-30,,Active,Healthcare
+131,HOSE,DC4,2008-11-03,,Active,Real Estate and Construction
+132,HOSE,PVF,2008-11-03,2013-09-23,Delisted,Finance
+133,HOSE,BAS,2008-11-11,2012-05-02,Delisted,Agriculture
+134,HOSE,LCG,2008-11-18,,Active,Real Estate and Construction
+135,HOSE,TRA,2008-11-26,,Active,Healthcare
+136,HOSE,HSG,2008-12-05,,Active,Materials
+137,HOSE,HAG,2008-12-22,,Active,Finance
+138,HOSE,SVI,2008-12-22,,Active,Materials
+139,HOSE,NBB,2009-02-18,,Active,Real Estate and Construction
+140,HOSE,BCI,2009-03-17,2018-02-22,Delisted,Real Estate and Construction
+141,HOSE,PNJ,2009-03-23,,Active,Service
+142,HOSE,HT2,2009-03-27,2010-04-15,Delisted,Real Estate and Construction
+143,HOSE,HCM,2009-05-19,,Active,Finance
+144,HOSE,TMP,2009-06-18,,Active,Energy
+145,HOSE,BVH,2009-06-25,,Active,Finance
+146,HOSE,VCB,2009-06-30,,Active,Finance
+147,HOSE,CTG,2009-07-16,,Active,Finance
+148,HOSE,DHC,2009-07-23,,Active,Materials
+149,HOSE,CTS,2009-07-31,,Active,Finance
+150,HOSE,CSM,2009-08-11,,Active,Industrials
+151,HOSE,D2D,2009-08-14,,Active,Real Estate and Construction
+152,HOSE,VNL,2009-08-17,,Active,Industrials
+153,HOSE,PHR,2009-08-18,,Active,Real Estate and Construction
+154,HOSE,DIG,2009-08-19,,Active,Real Estate and Construction
+155,HOSE,VPH,2009-09-09,,Active,Real Estate and Construction
+156,HOSE,RDP,2009-09-22,,Active,Materials
+157,HOSE,AAM,2009-09-24,,Active,Agriculture
+158,HOSE,MCG,2009-09-24,,Active,Real Estate and Construction
+159,HOSE,PHT,2009-09-28,2014-12-17,Delisted,Materials
+160,HOSE,SRC,2009-10-07,,Active,Industrials
+161,HOSE,TCO,2009-10-07,,Active,Industrials
+162,HOSE,LGL,2009-10-08,,Active,Real Estate and Construction
+163,HOSE,TIC,2009-10-12,2017-10-11,Delisted,Energy
+164,HOSE,TV2,2009-10-13,,Active,Real Estate and Construction
+165,HOSE,ITC,2009-10-19,,Active,Real Estate and Construction
+166,HOSE,SRF,2009-10-21,,Active,Industrials
+167,HOSE,EIB,2009-10-27,,Active,Finance
+168,HOSE,DBT,2009-10-30,,Active,Healthcare
+169,HOSE,MSN,2009-11-05,,Active,Finance
+170,HOSE,CVT,2009-11-05,,Active,Real Estate and Construction
+171,HOSE,GDT,2009-11-17,,Active,Consumer Goods
+172,HOSE,TIX,2009-11-25,,Active,Real Estate and Construction
+173,HOSE,BTP,2009-11-25,,Active,Energy
+174,HOSE,PGD,2009-11-26,,Active,Energy
+175,HOSE,DVP,2009-12-01,,Active,Industrials
+176,HOSE,ITD,2009-12-07,,Active,Technology
+177,HOSE,LIX,2009-12-10,,Active,Consumer Goods
+178,HOSE,AGR,2009-12-10,,Active,Finance
+179,HOSE,VFG,2009-12-17,,Active,
+180,HOSE,VNG,2009-12-17,,Active,Service
+181,HOSE,DXG,2009-12-22,,Active,Real Estate and Construction
+182,HOSE,DVD,2009-12-22,2011-09-01,Delisted,Healthcare
+183,HOSE,ACC,2009-12-23,,Active,Real Estate and Construction
+184,HOSE,TCL,2009-12-24,,Active,Industrials
+185,HOSE,SHI,2009-12-30,,Active,Consumer Goods
+186,HOSE,SEC,2010-01-06,2015-09-25,Delisted,
+187,HOSE,AGD,2010-01-07,2014-12-17,Delisted,Agriculture
+188,HOSE,ASM,2010-01-18,,Active,Real Estate and Construction
+189,HOSE,FDC,2010-01-18,,Active,Service
+190,HOSE,CTD,2010-01-20,,Active,Real Estate and Construction
+191,HOSE,KSB,2010-01-20,,Active,Real Estate and Construction
+192,HOSE,TMT,2010-01-22,,Active,Industrials
+193,HOSE,CMG,2010-01-22,,Active,Technology
+194,HOSE,NHW,2010-01-26,2015-02-24,Delisted,Technology
+195,HOSE,KDH,2010-02-01,,Active,Real Estate and Construction
+196,HOSE,HDG,2010-02-02,,Active,Real Estate and Construction
+197,HOSE,NT2,2010-02-03,,Active,Energy
+198,HOSE,APC,2010-02-05,,Active,Agriculture
+199,HOSE,STG,2010-03-02,,Active,Industrials
+200,HOSE,TLH,2010-03-16,,Active,Materials
+201,HOSE,CTI,2010-03-19,,Active,Real Estate and Construction
+202,HOSE,LHG,2010-03-23,,Active,Real Estate and Construction
+203,HOSE,TLG,2010-03-26,,Active,Consumer Goods
+204,HOSE,NVN,2010-03-30,2015-05-04,Delisted,Real Estate and Construction
+205,HOSE,VND,2010-03-30,,Active,Finance
+206,HOSE,DAG,2010-04-08,,Active,Real Estate and Construction
+207,HOSE,BTT,2010-04-14,,Active,Service
+208,HOSE,CCI,2010-04-15,,Active,Real Estate and Construction
+209,HOSE,IJC,2010-04-19,,Active,Real Estate and Construction
+210,HOSE,POM,2010-04-20,,Active,Materials
+211,HOSE,CHP,2010-04-21,,Active,Energy
+212,HOSE,TDC,2010-05-04,,Active,Real Estate and Construction
+213,HOSE,OGC,2010-05-04,,Active,Real Estate and Construction
+214,HOSE,NVT,2010-05-07,,Active,Real Estate and Construction
+215,HOSE,TNT,2010-05-21,,Active,Materials
+216,HOSE,SPM,2010-05-21,,Active,Healthcare
+217,HOSE,HU1,2010-05-26,,Active,Real Estate and Construction
+218,HOSE,SBA,2010-06-01,,Active,Energy
+219,HOSE,PXT,2010-06-01,,Active,Real Estate and Construction
+220,HOSE,PXS,2010-06-02,,Active,Real Estate and Construction
+221,HOSE,DTL,2010-06-04,,Active,Materials
+222,HOSE,CMV,2010-06-21,,Active,Energy
+223,HOSE,PXI,2010-06-21,,Active,Real Estate and Construction
+224,HOSE,DLG,2010-06-22,,Active,Real Estate and Construction
+225,HOSE,NNC,2010-06-23,,Active,Real Estate and Construction
+226,HOSE,BCE,2010-06-28,,Active,Real Estate and Construction
+227,HOSE,NHS,2010-07-02,2015-10-27,Delisted,
+228,HOSE,UDC,2010-07-05,,Active,Real Estate and Construction
+229,HOSE,PDN,2010-07-15,,Active,Industrials
+230,HOSE,AAA,2010-07-15,,Active,Materials
+231,HOSE,DTA,2010-07-16,,Active,Real Estate and Construction
+232,HOSE,VRC,2010-07-26,,Active,Real Estate and Construction
+233,HOSE,DRH,2010-07-26,,Active,Real Estate and Construction
+234,HOSE,PDR,2010-07-30,,Active,Real Estate and Construction
+235,HOSE,QCG,2010-08-09,,Active,Real Estate and Construction
+236,HOSE,CLG,2010-08-09,,Active,Real Estate and Construction
+237,HOSE,VFMVFA,2010-08-09,2013-03-08,Delisted,Finance
+238,HOSE,VOS,2010-09-08,,Active,Industrials
+239,HOSE,SHP,2010-09-10,,Active,Energy
+240,HOSE,PTL,2010-09-22,,Active,Real Estate and Construction
+241,HOSE,VTF,2010-09-24,2015-12-14,Delisted,
+242,HOSE,HVX,2010-09-28,,Active,Real Estate and Construction
+243,HOSE,VMD,2010-09-30,,Active,Healthcare
+244,HOSE,ELC,2010-10-13,,Active,Technology
+245,HOSE,SMA,2010-10-19,,Active,Service
+246,HOSE,HQC,2010-10-20,,Active,Real Estate and Construction
+247,HOSE,DSN,2010-10-26,,Active,Service
+248,HOSE,CMX,2010-11-09,,Active,Agriculture
+249,HOSE,SCR,2010-11-09,,Active,Real Estate and Construction
+250,HOSE,TDW,2010-11-11,,Active,Service
+251,HOSE,LM8,2010-11-15,,Active,Real Estate and Construction
+252,HOSE,EVE,2010-12-17,,Active,Consumer Goods
+253,HOSE,HTI,2010-12-20,,Active,Industrials
+254,HOSE,VSI,2010-12-24,,Active,Service
+255,HOSE,HTL,2011-01-10,,Active,Service
+256,HOSE,CLW,2011-01-11,,Active,Service
+257,HOSE,MDG,2011-01-12,,Active,Real Estate and Construction
+258,HOSE,NKG,2011-01-14,,Active,Materials
+259,HOSE,VCF,2011-01-28,,Active,Consumer Goods
+260,HOSE,C32,2011-02-24,,Active,Real Estate and Construction
+261,HOSE,CCL,2011-03-03,,Active,Real Estate and Construction
+262,HOSE,HU3,2011-03-18,,Active,Real Estate and Construction
+263,HOSE,C47,2011-03-30,,Active,Real Estate and Construction
+264,HOSE,BGM,2011-06-20,2017-03-28,Delisted,Materials
+265,HOSE,JVC,2011-06-21,,Active,Healthcare
+266,HOSE,IDI,2011-06-30,,Active,
+267,HOSE,BSI,2011-07-19,,Active,Finance
+268,HOSE,CIG,2011-07-19,,Active,Real Estate and Construction
+269,HOSE,HOT,2011-07-21,,Active,Service
+270,HOSE,PTB,2011-07-22,,Active,Service
+271,HOSE,THG,2011-07-28,,Active,Real Estate and Construction
+272,HOSE,PGI,2011-07-29,,Active,Finance
+273,HOSE,BIC,2011-09-06,,Active,Finance
+274,HOSE,LCM,2011-09-16,,Active,Materials
+275,HOSE,FLC,2011-10-05,,Active,Real Estate and Construction
+276,HOSE,SVT,2011-10-05,,Active,Service
+277,HOSE,MBB,2011-11-01,,Active,Finance
+278,HOSE,CNG,2011-11-23,,Active,Energy
+279,HOSE,BRC,2011-12-13,,Active,Materials
+280,HOSE,HHS,2012-02-15,,Active,Industrials
+281,HOSE,GSP,2012-03-09,,Active,Industrials
+282,HOSE,DRL,2012-04-11,,Active,Energy
+283,HOSE,GAS,2012-05-21,,Active,Energy
+284,HOSE,ASIAGF,2012-06-27,2014-12-30,Delisted,Finance
+285,HOSE,FCN,2012-07-25,,Active,Industrials
+286,HOSE,DHM,2012-07-25,,Active,Service
+287,HOSE,SII,2012-09-12,,Active,Real Estate and Construction
+288,HOSE,CLP,2012-11-15,2014-05-14,Delisted,Agriculture
+289,HOSE,EMC,2012-11-29,,Active,Industrials
+290,HOSE,AGM,2012-12-14,,Active,Agriculture
+291,HOSE,HAR,2013-01-18,,Active,Real Estate and Construction
+292,HOSE,SHA,2013-01-21,,Active,Materials
+293,HOSE,NLG,2013-04-08,,Active,Real Estate and Construction
+294,HOSE,FCM,2013-05-15,,Active,Materials
+295,HOSE,FIT,2013-07-26,,Active,Finance
+296,HOSE,BID,2014-01-24,,Active,Finance
+297,HOSE,SKG,2014-07-08,,Active,Industrials
+298,HOSE,CLL,2014-07-08,,Active,Industrials
+299,HOSE,MWG,2014-07-14,,Active,Technology
+300,HOSE,DGC,2014-08-26,,Active,Materials
+301,HOSE,GTN,2014-10-03,,Active,Consumer Goods
+302,HOSE,E1VFVN30,2014-10-06,,Active,Finance
+303,HOSE,AMD,2014-11-11,,Active,Technology
+304,HOSE,QBS,2014-11-14,,Active,
+305,HOSE,SFG,2014-12-01,,Active,
+306,HOSE,CAV,2014-12-08,,Active,Industrials
+307,HOSE,NCT,2015-01-08,,Active,Industrials
+308,HOSE,TVS,2015-01-15,,Active,Finance
+309,HOSE,TTB,2015-01-26,,Active,Real Estate and Construction
+310,HOSE,HAH,2015-03-11,,Active,Industrials
+311,HOSE,CSV,2015-03-18,,Active,Materials
+312,HOSE,DCM,2015-03-31,,Active,Agriculture
+313,HOSE,GEX,2015-05-11,,Active,Technology
+314,HOSE,TVB,2015-06-18,,Active,Finance
+315,HOSE,VAF,2015-06-23,,Active,
+316,HOSE,BCG,2015-07-16,,Active,Finance
+317,HOSE,HNG,2015-07-20,,Active,
+318,HOSE,DGW,2015-08-03,,Active,Technology
+319,HOSE,LDG,2015-08-12,,Active,Real Estate and Construction
+320,HOSE,VPS,2015-08-19,,Active,
+321,HOSE,STK,2015-09-30,,Active,Consumer Goods
+322,HOSE,BFC,2015-10-07,,Active,Agriculture
+323,HOSE,NAF,2015-10-07,,Active,
+324,HOSE,VGC,2015-10-15,,Active,Real Estate and Construction
+325,HOSE,DAT,2015-11-05,,Active,Agriculture
+326,HOSE,SGN,2015-12-10,,Active,Service
+327,HOSE,TEG,2015-12-22,,Active,Real Estate and Construction
+328,HOSE,KPF,2016-03-02,,Active,Real Estate and Construction
+329,HOSE,VPD,2016-04-12,,Active,Energy
+330,HOSE,S4A,2016-05-27,,Active,Energy
+331,HOSE,TIP,2016-06-06,,Active,Real Estate and Construction
+332,HOSE,ADS,2016-06-29,,Active,Consumer Goods
+333,HOSE,HCD,2016-07-04,,Active,Materials
+334,HOSE,HID,2016-07-11,,Active,Real Estate and Construction
+335,HOSE,ATG,2016-08-22,,Active,Materials
+336,HOSE,ROS,2016-09-01,,Active,Real Estate and Construction
+337,HOSE,TCH,2016-10-05,,Active,Service
+338,HOSE,DAH,2016-10-10,,Active,Service
+339,HOSE,IBC,2016-10-25,,Active,Service
+340,HOSE,BHN,2016-10-28,,Active,Consumer Goods
+341,HOSE,PC1,2016-11-16,,Active,Real Estate and Construction
+342,HOSE,APG,2016-11-30,,Active,Finance
+343,HOSE,SAB,2016-12-06,,Active,Consumer Goods
+344,HOSE,FUCTVGF1,2016-12-22,,Active,
+345,HOSE,NVL,2016-12-28,,Active,Real Estate and Construction
+346,HOSE,HVN,2017-01-03,,Active,Industrials
+347,HOSE,VIB,2017-01-09,,Active,Finance
+348,HOSE,DPG,2017-01-12,,Active,Real Estate and Construction
+349,HOSE,FTS,2017-01-13,,Active,Finance
+350,HOSE,DBD,2017-01-16,,Active,Healthcare
+351,HOSE,FTM,2017-02-06,,Active,Consumer Goods
+352,HOSE,FUCVREIT,2017-02-27,,Active,
+353,HOSE,VJC,2017-02-28,,Active,Industrials
+354,HOSE,GEG,2017-03-21,,Active,Energy
+355,HOSE,PLX,2017-04-21,,Active,Energy
+356,HOSE,CEE,2017-05-15,,Active,Real Estate and Construction
+357,HOSE,SBV,2017-05-16,,Active,Materials
+358,HOSE,TCD,2017-05-26,,Active,Real Estate and Construction
+359,HOSE,TNI,2017-05-29,,Active,Real Estate and Construction
+360,HOSE,CTF,2017-05-30,,Active,Industrials
+361,HOSE,EVG,2017-06-08,,Active,Real Estate and Construction
+362,HOSE,LEC,2017-06-14,,Active,Real Estate and Construction
+363,HOSE,THI,2017-06-15,,Active,Technology
+364,HOSE,TDG,2017-06-15,,Active,Energy
+365,HOSE,HII,2017-06-22,,Active,
+366,HOSE,SJF,2017-07-05,,Active,
+367,HOSE,VCI,2017-07-07,,Active,Finance
+368,HOSE,SCS,2017-07-12,,Active,Service
+369,HOSE,TVT,2017-07-17,,Active,Consumer Goods
+370,HOSE,VDS,2017-07-19,,Active,Finance
+371,HOSE,BWE,2017-07-20,,Active,Service
+372,HOSE,VDP,2017-08-15,,Active,Healthcare
+373,HOSE,VPB,2017-08-17,,Active,Finance
+374,HOSE,PLP,2017-08-21,,Active,Materials
+375,HOSE,NHH,2017-09-08,,Active,Materials
+376,HOSE,LPB,2017-10-05,,Active,Finance
+377,HOSE,VRE,2017-11-06,,Active,Real Estate and Construction
+378,HOSE,PME,2017-11-08,,Active,Healthcare
+379,HOSE,VPI,2017-11-28,,Active,Real Estate and Construction
+380,HOSE,TLD,2017-12-07,,Active,Real Estate and Construction
+381,HOSE,KOS,2017-12-08,,Active,Real Estate and Construction
+382,HOSE,FUESSV50,2017-12-15,,Active,
+383,HOSE,AST,2018-01-04,,Active,Industrials
+384,HOSE,HDB,2018-01-05,,Active,Finance
+385,HOSE,SGR,2018-01-15,,Active,Real Estate and Construction
+386,HOSE,VPG,2018-01-18,,Active,Service
+387,HOSE,PMG,2018-01-25,,Active,Energy
+388,HOSE,BCM,2018-02-21,,Active,Real Estate and Construction
+389,HOSE,POW,2018-03-06,,Active,Energy
+390,HOSE,GVR,2018-03-21,,Active,
+391,HOSE,TPB,2018-04-19,,Active,Finance
+392,HOSE,FRT,2018-04-26,,Active,Technology
+393,HOSE,HSL,2018-05-10,,Active,
+394,HOSE,VHM,2018-05-17,,Active,Real Estate and Construction
+395,HOSE,TGG,2018-05-25,,Active,Real Estate and Construction
+396,HOSE,TCB,2018-06-04,,Active,Finance
+397,HOSE,YEG,2018-06-26,,Active,Service
+398,HOSE,HPX,2018-07-24,,Active,Real Estate and Construction
+399,HOSE,SMB,2018-08-03,,Active,Consumer Goods
+400,HOSE,CRC,2018-08-20,,Active,Real Estate and Construction
+401,HOSE,YBM,2018-08-21,,Active,Materials
+402,HOSE,CRE,2018-09-05,,Active,Real Estate and Construction
+403,HOSE,FUCTVGF2,2018-10-01,,Active,Finance
+404,HOSE,PHC,2018-10-03,,Active,Real Estate and Construction
+405,HOSE,FIR,2018-10-18,,Active,Real Estate and Construction
+406,HOSE,TDM,2018-10-24,,Active,Service
+407,HOSE,TDP,2018-11-12,,Active,Materials
+408,HOSE,HTN,2018-11-12,,Active,Real Estate and Construction
+409,HOSE,MSH,2018-11-28,,Active,Consumer Goods
+410,HOSE,HVH,2018-11-30,,Active,Real Estate and Construction
+411,HOSE,TTE,2018-12-10,,Active,Energy
+412,HOSE,SZC,2019-01-15,,Active,Real Estate and Construction
+413,HOSE,HUB,2019-02-26,,Active,Real Estate and Construction
+414,HOSE,ILB,2019-05-15,,Active,Industrials
+415,HOSE,TN1,2019-05-30,,Active,Real Estate and Construction
+416,HOSE,GAB,2019-07-11,,Active,Real Estate and Construction
+417,HOSE,AGG,2020-01-09,,Active,Real Estate and Construction
+418,HOSE,ICT,2020-01-15,,Active,Communication
+419,HOSE,ABS,2020-03-18,,Active,Agriculture
+420,HOSE,FUESSVFL,2020-03-18,,Active,Finance
+421,HOSE,CKG,2020-03-25,,Active,Real Estate and Construction
+422,HOSE,FUEVFVND,2020-05-12,,Active,
+423,HOSE,PSH,2020-06-24,,Active,Materials
+424,HOSE,FUEVN100,2020-07-21,,Active,Finance
+425,HOSE,APH,2020-07-28,,Active,Materials
+426,HOSE,FUESSV30,2020-08-18,,Active,Finance
+427,HOSE,TTA,2020-09-18,,Active,Energy
+428,HOSE,ASG,2020-09-24,,Active,Industrials
+429,HOSE,FUEMAV30,2020-12-08,,Active,
+430,HOSE,MSB,2020-12-23,,Active,Finance
+431,HOSE,VCG,2020-12-29,,Active,Real Estate and Construction
+432,HOSE,BKG,2020-12-31,,Active,Service
