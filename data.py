@@ -48,8 +48,14 @@ class Data:
 
     def get_all_records(self):
         # Daily Trading records of all Stocks from Cafef
-        hose_all = pd.read_csv("HOSE_daily_trade.csv")
-        hnx_all = pd.read_csv("HNX_daily_trade.csv")
+        # HOSE Link: "https://raw.githubusercontent.com/plklinh/data501/main/HOSE_daily_trade.csv"
+        # HOSE local link: "HOSE_daily_trade.csv"
+        # HNX Link: "https://raw.githubusercontent.com/plklinh/data501/main/HNX_daily_trade.csv"
+        # HNX Local Link: "HNX_daily_trade.csv"
+        hose_all = pd.read_csv(
+            "https://raw.githubusercontent.com/plklinh/data501/main/HOSE_daily_trade.csv")
+        hnx_all = pd.read_csv(
+            "https://raw.githubusercontent.com/plklinh/data501/main/HNX_daily_trade.csv")
         hnx_all.rename(columns={'Close_Price': "Close",
                                 'Average_Price': "Avg", 'Reference_Price': "Adj_close", 'Open_Price': "Open", 'High_Price': "High",
                                 'Low_price': "Low"}, inplace=True)
