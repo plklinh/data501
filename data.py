@@ -79,6 +79,5 @@ class Data:
         return trade_df
 
     def get_macro_df(self):
-        macro_df = pd.read_csv("index_macro_merged.csv")
-        set_datetime_index(macro_df, "Unnamed: 0")
+        macro_df = pd.read_csv("cleaned data/Macro_vars.csv", thousands=",")
         return macro_df
